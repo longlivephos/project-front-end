@@ -4,12 +4,12 @@
 
 ### Reading a design before touching code
 
-Before touching the editor, the first step was studying the design across all three breakpoints — desktop (1200px), tablet (768px), and mobile (375px) — and asking:
+Before touching the editor, the first step was studying the design across all three breakpoints: desktop (1200px), tablet (768px), and mobile (375px) — and asking:
 - What are the major **sections** on this page?
 - What **repeats**? What only appears once?
 - How does the **layout shift** between screen sizes?
 
-This "design reading" phase saved a lot of time because it prevented writing code that had to be torn down and rewritten later.
+This "design reading" phase saved me a lot of time because it prevented writing code that had to be torn down and rewritten later.
 
 ---
 
