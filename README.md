@@ -1,6 +1,6 @@
 ﻿# Project Front End
  
-## What I Learned
+## What I Learned ദ്ദി◝ ⩊ ◜.ᐟ
 
 ### Reading a design before touching code
 
@@ -10,6 +10,8 @@ Before touching the editor, the first step was studying the design across all th
 - How does the **layout shift** between screen sizes?
 
 This "design reading" phase saved a lot of time because it prevented writing code that had to be torn down and rewritten later.
+
+---
 
 ### Identifying layout
 
@@ -33,7 +35,7 @@ Learning to spot this hierarchy in a design made it much easier to decide what C
 
 ---
 
-### 3. Spotting reusable components
+### Spotting reusable components
 
 I feel like one of the main skills practiced here was identifying **what should be a component** vs. what can stay as inline markup. I was struggling to tell but then i spotted something.
 
